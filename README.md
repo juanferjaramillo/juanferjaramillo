@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Aqui Estoy Scheduling Platform](https://github.com/juanferjaramillo/aqui-estoy)
 
-- 🌱 I’m in my way to master **React Native**
+- 🌱 I’m in my way to master **React Native** 
 
-- 💬 Aask me about **React, Redux, Express, Sequelize**
+- 💬 Ask me about **React, Redux, Express, Sequelize**
 
 - 📫 Feel free to reach me at **juanfer.jaramillo@gmail.com**
 
