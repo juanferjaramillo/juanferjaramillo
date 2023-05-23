@@ -10,7 +10,7 @@ Presently, I take pride in possessing the knowledge and skills required to devel
 
 Ultimately, my affinity for technology has always been my greatest passion and area of expertise. I embrace the opportunity to participate in tech projects and contribute to their advancement.
 
-juanfer.jaramillo@gmail.com\
+juanfer.jaramillo@gmail.com
 <!--
 **juanferjaramillo/juanferjaramillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
