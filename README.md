@@ -1,5 +1,3 @@
-### Hi there 👋
-
 I consider myself fortunate to have a career that aligns with my personal interests. As an electronics engineer, I derive immense satisfaction from incorporating various technologies into each project I undertake.
 
 Motivated by my insatiable curiosity and a strong dedication to ongoing growth, I embraced the challenge of becoming a full stack JavaScript developer. To accomplish this, I enrolled in the bootcamp and labs program offered by @soyhenry.
