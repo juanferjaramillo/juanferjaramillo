@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Juanfer Jaramillo</h1>
+<h1 align="center">Hi there! I'm Juanfer Jaramillo</h1>
 <h3 align="center">A lucky Full Stack Developer from Colombia: lucky because I do what I love!</h3>
 
 - 🔭 I’m currently working on [Aqui Estoy Scheduling Platform](https://github.com/juanferjaramillo/aqui-estoy)
