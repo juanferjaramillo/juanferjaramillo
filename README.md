@@ -1,11 +1,11 @@
 <h1 align="center">Hi there! I'm Juanfer Jaramillo</h1>
 <h3 align="center">A lucky Full Stack Developer from Colombia: lucky because I do what I love!</h3>
 
-- 🔭 I’m currently working on [Aqui Estoy Scheduling Platform](https://github.com/juanferjaramillo/aqui-estoy)
+- 🔭 I’m currently working on [Calixto - Commercial product portfolio](https://github.com/juanferjaramillo/calixtoClient)
 
 - 🌱 I’m in my way to master **React Native** 
 
-- 💬 Ask me about **React, Redux, Express, Sequelize**
+- 💬 Ask me about **React, Redux, MUI, Express, Sequelize**
 
 - 📫 Feel free to reach me at **juanfer.jaramillo@gmail.com**
 
